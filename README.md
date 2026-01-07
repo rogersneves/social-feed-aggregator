@@ -1,4 +1,4 @@
-# Social Feed Aggregator
+# Querosene
 
 ## Descrição
 Agregador de posts de redes sociais com feed completo, administração de usuários e posts com permissões granulares, e armazenamento criptografado em CSV.
